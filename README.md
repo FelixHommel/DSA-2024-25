@@ -9,14 +9,14 @@ It is utilizing Minimum spanning trees with Kursskal's algorithm and a Union-Fin
 
 For a sample input:
 
-1
-5 7
-1 2 4
-3 1 1
-2 3 2
-1 4 2
-4 3 2
-2 4 3
+1\
+5 7\
+1 2 4\
+3 1 1\
+2 3 2\
+1 4 2\
+4 3 2\
+2 4 3\
 1 5 5
 
 the expected result is 10
