@@ -20,3 +20,20 @@ For a sample input:
 1 5 5
 
 the expected result is 10
+
+## P8
+P8 is about finding the furthest away treehouse from a starting point.
+It is utilizing Dijkstra's algorithm to find the shortest path from the starting point to all other
+points. After that the longest of these can easily be found.
+
+For a sample input:
+
+1\
+4 5\
+1 2 2\
+2 4 5\
+3 4 3\
+3 2 1\
+1 3 7
+
+the expected output is 6

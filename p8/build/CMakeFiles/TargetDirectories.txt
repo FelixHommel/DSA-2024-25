@@ -1,0 +1,3 @@
+/home/felix/dev/cpp/DSA-2024-25/p8/build/CMakeFiles/Sherwood2.dir
+/home/felix/dev/cpp/DSA-2024-25/p8/build/CMakeFiles/edit_cache.dir
+/home/felix/dev/cpp/DSA-2024-25/p8/build/CMakeFiles/rebuild_cache.dir
