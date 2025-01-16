@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Sherwood2.dir/link.d CMakeFiles/Sherwood2.dir/main.cpp.o -o Sherwood2
