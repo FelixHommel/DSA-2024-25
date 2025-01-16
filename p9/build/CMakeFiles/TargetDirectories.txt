@@ -1,3 +1,0 @@
-/home/felix/dev/cpp/DSA-2024-25/p9/build/CMakeFiles/Strassensperrung.dir
-/home/felix/dev/cpp/DSA-2024-25/p9/build/CMakeFiles/edit_cache.dir
-/home/felix/dev/cpp/DSA-2024-25/p9/build/CMakeFiles/rebuild_cache.dir
