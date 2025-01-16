@@ -37,3 +37,23 @@ For a sample input:
 1 3 7
 
 the expected output is 6
+
+## P11
+P11 is a simple greatest common divisor problem. It wants you to print the minimal amount of tiles 
+required to cover a area of x * y. This can be easily done with the gcd of x and y and then dividing
+both x and y by the gcd(x, y) and then multiplying the results.
+
+Sample Input:
+
+4\
+6 3\
+6 15\
+350 210\
+12767 29767\
+
+the expected result:
+
+2\
+10\
+15\
+1315001
