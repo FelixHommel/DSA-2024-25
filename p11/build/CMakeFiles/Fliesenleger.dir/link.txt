@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Fliesenleger.dir/link.d CMakeFiles/Fliesenleger.dir/main.cpp.o -o Fliesenleger

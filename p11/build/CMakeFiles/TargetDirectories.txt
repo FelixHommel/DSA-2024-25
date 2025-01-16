@@ -1,3 +1,0 @@
-/home/felix/dev/cpp/DSA-2024-25/p11/build/CMakeFiles/Fliesenleger.dir
-/home/felix/dev/cpp/DSA-2024-25/p11/build/CMakeFiles/edit_cache.dir
-/home/felix/dev/cpp/DSA-2024-25/p11/build/CMakeFiles/rebuild_cache.dir
